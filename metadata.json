@@ -1,0 +1,5 @@
+{
+  "name": "Cortex FM",
+  "description": "A modern, AI-powered music platform to generate and discover new playlists based on your mood or any prompt. Built with React and the Gemini API.",
+  "requestFramePermissions": []
+}
